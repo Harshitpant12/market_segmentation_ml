@@ -23,6 +23,6 @@ This project applies unsupervised learning (K-Means Clustering) to perform custo
 - Scikit-learn
 
 ## Outcome
-- Successfully segmented customers into different groups based on age, annual income, and spending score.
-- Visualized customer groups to derive actionable marketing insights.
-- Built a classifier to predict customer segments using decision tree model.
+- Successfully segmented customer data into distinct clusters using unsupervised learning.  
+- Visualized cluster groupings to derive business insights.  
+- Built a decision tree classifier to predict customer segments using clustering-based labels.
